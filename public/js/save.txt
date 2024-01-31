@@ -1,0 +1,11 @@
+
+
+// פונקציה ליצירת כפתור לסיום המשחק
+// function createFinishButton() {
+//     let finishButton = document.createElement("div");
+//     finishButton.className = "finishButton";
+//     finishButton.textContent = 'Finish The Game';
+//     finishButton.addEventListener('click', onFinishClick);
+//     let finishArea = document.getElementsByClassName("finish")[0];
+//     finishArea.appendChild(finishButton);
+// }
