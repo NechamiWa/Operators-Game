@@ -56,14 +56,4 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 5. Push to the branch (`git push origin feature/improvement`)
 6. Create a new Pull Request.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgements
-
-Special thanks to [OpenAI](https://openai.com) for providing the technology behind ChatGPT, which assisted in generating this README.
-
----
-
-Feel free to customize the README according to your project's specific details and requirements.
